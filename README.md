@@ -1,4 +1,4 @@
-#CDFguardians
+
 
 ---
 layout: default
