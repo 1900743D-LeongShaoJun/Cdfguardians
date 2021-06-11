@@ -1,12 +1,7 @@
 ---
 description: >-
-  A collection of write-ups and walkthroughs of my adventures through
-  https://hackthebox.eu. Includes retired machines and challenges.
+  A collection of write-ups from CDFguardians
 ---
-
-# Hack the Box Write-ups being moved to https://zweilosec.github.io 🌠
-
-⚠️ I am in the process of moving my writeups to a better looking site at https://zweilosec.github.io! Please check it out! ⚠️
 
 ## Hack the Box Machines
 
